@@ -5,8 +5,11 @@
 - 中从之众人，编程谓之好也
 - 广泛涉猎，专其一，好其广，爱其造之乐也
 - 愿诸君安，前途无量
----
-<div align="center">
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<!-- <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.csdn.net/qq_44880095?spm=1000.2115.3001.5343">
@@ -23,7 +26,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
 
 <div align="center" >
 
