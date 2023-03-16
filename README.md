@@ -1,11 +1,10 @@
-- 📫 冀余与余之佳朋讯通 微信之帐号:shouzi_1994
-- 😄 吾名: MR.奇淼
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=May-cloud&count_private=true&show_icons=true&theme=radicalhide_title=true&show_icons=true" />
 
-主差之构筑运作之程，从之前端，好之golang。
-- 幼贫，编程谓之温饱
+主差之构筑运作之程，从之前端，好之Golang。
+- 😄 吾名: MAY.亚举
 - 中从之众人，编程谓之好也
 - 广泛涉猎，专其一，好其广，爱其造之乐也
-- 愿君安，前途无量
+- 愿诸君安，前途无量
 ---
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
