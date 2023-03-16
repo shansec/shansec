@@ -1,3 +1,16 @@
+<div>
+- 📫 冀余与余之佳朋讯通 微信之帐号:shouzi_1994
+- 😄 吾名: MR.奇淼
+
+主差之构筑运作之程，从之前端，好之golang。
+- 幼贫，编程谓之温饱
+- 中从之众人，编程谓之好也
+- 广泛涉猎，专其一，好其广，爱其造之乐也
+- 愿君安，前途无量
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=May-cloud&theme=xcode" />
+  ---
+  
+</div>
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -76,5 +89,5 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <!-- github活跃统计图 -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=May-cloud&theme=xcode" />
+
 </div>
