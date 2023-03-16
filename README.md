@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shansec&count_private=true&show_icons=true&theme=dark&hide_title=true&show_icons=true&hide=stars" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shansec&count_private=true&show_icons=true&theme=merko&hide_title=true&show_icons=true&hide=stars" />
 
 主差之构筑运作之程，从之前端，好之Golang。
 - 😄 吾名: MAY.亚举
