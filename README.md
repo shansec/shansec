@@ -109,5 +109,5 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <!-- github活跃统计图 -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=May-cloud&theme=xcode
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=May-cloud&theme=xcode" />
 </div>
