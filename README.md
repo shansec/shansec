@@ -6,7 +6,7 @@
 - 中从之众人，编程谓之好也
 - 广泛涉猎，专其一，好其广，爱其造之乐也
 - 愿君安，前途无量
-  ---
+---
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -84,5 +84,5 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <!-- github活跃统计图 -->
-  <img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=May-cloud&theme=xcode&custom_title=亚举（Shansec~）" />
+  <img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=May-cloud&theme=xcode" />
 </div>
