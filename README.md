@@ -1,13 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shansec&count_private=true&show_icons=true&theme=merko&hide_title=true&show_icons=true&hide=stars" />
-
-主差之构筑运作之程，从之前端。
-- 😄 吾名: Shansec
-- 中从之众人，编程谓之好也
-- 广泛涉猎，专其一，好其广，爱其造之乐也
-- 愿诸君安，前途无量
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=shansec&count_private=true&show_icons=true&theme=merko&hide_title=true&show_icons=true&hide=stars" /> -->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
 
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
